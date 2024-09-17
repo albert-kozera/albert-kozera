@@ -5,3 +5,7 @@ I'm a software engineer who (hopefully) has already crossed the Valley of Despai
 In addition to my software interests, I’m also deeply into hardware, including computers, smartphones, accessories, and the latest gadgets.
 
 ![background-image](https://github.com/user-attachments/assets/5faf808b-fe35-405a-be44-9639e905ffcf)
+
+## 💻 Tech Stack
+
+Currently, I’m mainly working with Java, Python, and the Spring Framework. You can check my full stack on [LinkedIn](https://www.linkedin.com/in/albert-kozera).
