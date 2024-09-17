@@ -6,7 +6,7 @@ I'm a software engineer who (hopefully) has already crossed the **Valley of Desp
 
 In addition to my software interests, I’m also deeply into hardware, including computers, smartphones, accessories, and the latest gadgets.
 
-![background-image](https://github.com/user-attachments/assets/5faf808b-fe35-405a-be44-9639e905ffcf)
+![background-image](https://github.com/user-attachments/assets/4ef34ad1-61ca-4df4-a567-5250f4ce04c5)
 
 ## 🎯 Goals
 
