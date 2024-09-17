@@ -14,7 +14,7 @@ In addition to my software interests, I’m also deeply into hardware, including
 
 ## 💻 Tech Stack
 
-Currently, I’m mainly working with Java, Python, and the Spring Framework.
+Currently, I’m mostly working with Java, Python, MongoDB, PostgreSQL, Spring Framework, and the NATS broker.
 
 <details>
 <summary>Click to view the full stack I am familiar with!</summary>
