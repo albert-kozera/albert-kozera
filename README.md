@@ -4,7 +4,7 @@
 
 I'm a software engineer who (hopefully) has already crossed the **Valley of Despair** in the Dunning-Kruger effect journey. With a solid foundation built through studies and professional experience, I've come to realize just how vast the field of tech is. No matter the challenge, I'm committed to continuous learning and pushing forward with enthusiasm and resilience.
 
-In addition to my software interests, I’m also deeply into hardware, including computers, smartphones, various accessories, and the latest gadgets.
+In addition to my software interests, I’m also deeply into hardware, including computers, smartphones, accessories, and various gadgets.
 
 ![background-image](https://github.com/user-attachments/assets/4ef34ad1-61ca-4df4-a567-5250f4ce04c5)
 
