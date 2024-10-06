@@ -10,7 +10,7 @@ In addition to my software interests, I’m also deeply into hardware, including
 
 ## 🎯 Goals
 
-- In 2024, I finally made significant improvements in my spoken English, which had been a challenge. This opened up new opportunities for me. However, there is still much work to be done to reach the level I aspire to.
+- In 2024, I finally made significant improvements in my spoken English, which had been a challenge. This opened up new opportunities for me. However, I still need to put a lot of work to attain the level of fluency I'm aspiring to.
 - In my free time, I’m developing a mod for the game *Guilty Gear XX Reload*, which aims to refresh and enhance an existing flawed online mode. The task is challenging due to the original code's comments and README being written in Japanese. You can check it out [here](https://github.com/guilty-gear-xx-reload).
 - I plan to learn Kotlin to become more flexible within the JVM stack.
 
